@@ -1,0 +1,217 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\assets\\img\\about\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\assets\\img\\about\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\assets\\img\\about\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\assets\\img\\about\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\assets\\img\\close-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\close-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\assets\\img\\header-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\header-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\assets\\img\\logos\\facebook.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\facebook.svg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\assets\\img\\logos\\google.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\google.svg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\assets\\img\\logos\\ibm.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\ibm.svg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\assets\\img\\logos\\microsoft.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\microsoft.svg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\assets\\img\\map-image.png",
+      "PackagePath": "staticwebassets\\assets\\img\\map-image.png"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\assets\\img\\navbar-logo.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\navbar-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\assets\\img\\portfolio\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\assets\\img\\portfolio\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\assets\\img\\portfolio\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\assets\\img\\portfolio\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\assets\\img\\portfolio\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\assets\\img\\portfolio\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\assets\\img\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\assets\\img\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\assets\\img\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\startbootstrap-agency-gh-pages\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\startbootstrap-agency-gh-pages\\assets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\startbootstrap-agency-gh-pages\\assets\\img\\about\\1.jpg",
+      "PackagePath": "staticwebassets\\startbootstrap-agency-gh-pages\\assets\\img\\about\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\startbootstrap-agency-gh-pages\\assets\\img\\about\\2.jpg",
+      "PackagePath": "staticwebassets\\startbootstrap-agency-gh-pages\\assets\\img\\about\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\startbootstrap-agency-gh-pages\\assets\\img\\about\\3.jpg",
+      "PackagePath": "staticwebassets\\startbootstrap-agency-gh-pages\\assets\\img\\about\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\startbootstrap-agency-gh-pages\\assets\\img\\about\\4.jpg",
+      "PackagePath": "staticwebassets\\startbootstrap-agency-gh-pages\\assets\\img\\about\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\startbootstrap-agency-gh-pages\\assets\\img\\close-icon.svg",
+      "PackagePath": "staticwebassets\\startbootstrap-agency-gh-pages\\assets\\img\\close-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\startbootstrap-agency-gh-pages\\assets\\img\\header-bg.jpg",
+      "PackagePath": "staticwebassets\\startbootstrap-agency-gh-pages\\assets\\img\\header-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\startbootstrap-agency-gh-pages\\assets\\img\\logos\\facebook.svg",
+      "PackagePath": "staticwebassets\\startbootstrap-agency-gh-pages\\assets\\img\\logos\\facebook.svg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\startbootstrap-agency-gh-pages\\assets\\img\\logos\\google.svg",
+      "PackagePath": "staticwebassets\\startbootstrap-agency-gh-pages\\assets\\img\\logos\\google.svg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\startbootstrap-agency-gh-pages\\assets\\img\\logos\\ibm.svg",
+      "PackagePath": "staticwebassets\\startbootstrap-agency-gh-pages\\assets\\img\\logos\\ibm.svg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\startbootstrap-agency-gh-pages\\assets\\img\\logos\\microsoft.svg",
+      "PackagePath": "staticwebassets\\startbootstrap-agency-gh-pages\\assets\\img\\logos\\microsoft.svg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\startbootstrap-agency-gh-pages\\assets\\img\\map-image.png",
+      "PackagePath": "staticwebassets\\startbootstrap-agency-gh-pages\\assets\\img\\map-image.png"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\startbootstrap-agency-gh-pages\\assets\\img\\navbar-logo.svg",
+      "PackagePath": "staticwebassets\\startbootstrap-agency-gh-pages\\assets\\img\\navbar-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\startbootstrap-agency-gh-pages\\assets\\img\\portfolio\\1.jpg",
+      "PackagePath": "staticwebassets\\startbootstrap-agency-gh-pages\\assets\\img\\portfolio\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\startbootstrap-agency-gh-pages\\assets\\img\\portfolio\\2.jpg",
+      "PackagePath": "staticwebassets\\startbootstrap-agency-gh-pages\\assets\\img\\portfolio\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\startbootstrap-agency-gh-pages\\assets\\img\\portfolio\\3.jpg",
+      "PackagePath": "staticwebassets\\startbootstrap-agency-gh-pages\\assets\\img\\portfolio\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\startbootstrap-agency-gh-pages\\assets\\img\\portfolio\\4.jpg",
+      "PackagePath": "staticwebassets\\startbootstrap-agency-gh-pages\\assets\\img\\portfolio\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\startbootstrap-agency-gh-pages\\assets\\img\\portfolio\\5.jpg",
+      "PackagePath": "staticwebassets\\startbootstrap-agency-gh-pages\\assets\\img\\portfolio\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\startbootstrap-agency-gh-pages\\assets\\img\\portfolio\\6.jpg",
+      "PackagePath": "staticwebassets\\startbootstrap-agency-gh-pages\\assets\\img\\portfolio\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\startbootstrap-agency-gh-pages\\assets\\img\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\startbootstrap-agency-gh-pages\\assets\\img\\team\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\startbootstrap-agency-gh-pages\\assets\\img\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\startbootstrap-agency-gh-pages\\assets\\img\\team\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\startbootstrap-agency-gh-pages\\assets\\img\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\startbootstrap-agency-gh-pages\\assets\\img\\team\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\startbootstrap-agency-gh-pages\\css\\styles.css",
+      "PackagePath": "staticwebassets\\startbootstrap-agency-gh-pages\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\startbootstrap-agency-gh-pages\\index.html",
+      "PackagePath": "staticwebassets\\startbootstrap-agency-gh-pages\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\New folder\\Elmar.Task\\src\\EQA\\src\\EQAS\\wwwroot\\startbootstrap-agency-gh-pages\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\startbootstrap-agency-gh-pages\\js\\scripts.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.EQAS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.EQAS.props",
+      "PackagePath": "build\\EQAS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.EQAS.props",
+      "PackagePath": "buildMultiTargeting\\EQAS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.EQAS.props",
+      "PackagePath": "buildTransitive\\EQAS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,17 @@
+C:\Users\II novbe\Desktop\New folder\Elmar.Task\src\EQA\src\EQA.Data\bin\Debug\net6.0\EQA.Data.deps.json
+C:\Users\II novbe\Desktop\New folder\Elmar.Task\src\EQA\src\EQA.Data\bin\Debug\net6.0\EQA.Data.dll
+C:\Users\II novbe\Desktop\New folder\Elmar.Task\src\EQA\src\EQA.Data\bin\Debug\net6.0\EQA.Data.pdb
+C:\Users\II novbe\Desktop\New folder\Elmar.Task\src\EQA\src\EQA.Data\bin\Debug\net6.0\EQA.Core.dll
+C:\Users\II novbe\Desktop\New folder\Elmar.Task\src\EQA\src\EQA.Data\bin\Debug\net6.0\EQA.Core.pdb
+C:\Users\II novbe\Desktop\New folder\Elmar.Task\src\EQA\src\EQA.Data\obj\Debug\net6.0\EQA.Data.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\New folder\Elmar.Task\src\EQA\src\EQA.Data\obj\Debug\net6.0\EQA.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\New folder\Elmar.Task\src\EQA\src\EQA.Data\obj\Debug\net6.0\EQA.Data.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\New folder\Elmar.Task\src\EQA\src\EQA.Data\obj\Debug\net6.0\EQA.Data.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\New folder\Elmar.Task\src\EQA\src\EQA.Data\obj\Debug\net6.0\EQA.Data.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\New folder\Elmar.Task\src\EQA\src\EQA.Data\obj\Debug\net6.0\EQA.Data.csproj.CopyComplete
+C:\Users\II novbe\Desktop\New folder\Elmar.Task\src\EQA\src\EQA.Data\obj\Debug\net6.0\EQA.Data.dll
+C:\Users\II novbe\Desktop\New folder\Elmar.Task\src\EQA\src\EQA.Data\obj\Debug\net6.0\refint\EQA.Data.dll
+C:\Users\II novbe\Desktop\New folder\Elmar.Task\src\EQA\src\EQA.Data\obj\Debug\net6.0\EQA.Data.pdb
+C:\Users\II novbe\Desktop\New folder\Elmar.Task\src\EQA\src\EQA.Data\obj\Debug\net6.0\ref\EQA.Data.dll
+C:\Users\II novbe\Desktop\New folder\Elmar.Task\src\EQA\src\EQA.Data\bin\Debug\net6.0\EQA.Data.runtimeconfig.json
+C:\Users\II novbe\Desktop\New folder\Elmar.Task\src\EQA\src\EQA.Data\obj\Debug\net6.0\EQA.Data.genruntimeconfig.cache
